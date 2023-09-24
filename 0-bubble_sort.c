@@ -7,6 +7,8 @@
  *
  * @size: the size of the array
  * @array: The array to be printed
+ *
+ * Description: Prints the array after each swap.
  */
 
 void bubble_sort(int *array, size_t size)
