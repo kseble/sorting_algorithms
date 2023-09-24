@@ -11,7 +11,7 @@
 
 void bubble_sort(int *array, size_t size)
 {
-	long unsigned int step, i;
+	size_t step, i;
 
 	for (step = 0; step < size - 1; ++step)
 	{
